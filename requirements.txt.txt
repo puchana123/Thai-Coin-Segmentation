@@ -1,0 +1,16 @@
+# Core Machine Learning & YOLOv8
+ultralytics
+torch
+torchvision
+torchaudio
+
+# Image Processing & Visualization
+opencv-python
+numpy
+Pillow
+
+# Data Acquisition (สำหรับดาวน์โหลดจาก Roboflow)
+roboflow
+
+# Notebook & Display (สำหรับรันใน Colab/Jupyter)
+ipython
